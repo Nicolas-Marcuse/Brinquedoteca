@@ -1,0 +1,3 @@
+criancas = []
+brinquedos = []
+emprestimos = []
